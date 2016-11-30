@@ -11,12 +11,12 @@
     -->
 
   <remote fetch="https://android.googlesource.com/" name="aosp"/>
-  <remote fetch="git://github.com/apitrace/" name="apitrace"/>
-  <remote fetch="git://github.com/mozilla-b2g/" name="b2g"/>
-  <remote fetch="https://git.mozilla.org/b2g" name="b2gmozilla"/>
+  <remote fetch="https://github.com/apitrace/" name="apitrace"/>
+  <remote fetch="https://github.com/mozilla-b2g/" name="b2g"/>
+  <remote fetch="https://hg.mozilla.org/b2g" name="b2gmozilla"/>
   <remote fetch="git://codeaurora.org/" name="caf"/>
   <remote fetch="http://android.git.linaro.org/git-ro/" name="linaro"/>
-  <remote fetch="git://github.com/mozilla/" name="mozilla"/>
+  <remote fetch="https://github.com/mozilla/" name="mozilla"/>
   <remote fetch="https://hg.mozilla.org/releases" name="mozillaorg"/>
 
   <!--
