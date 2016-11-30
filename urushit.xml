@@ -17,7 +17,7 @@
   <remote fetch="git://codeaurora.org/" name="caf"/>
   <remote fetch="http://android.git.linaro.org/git-ro/" name="linaro"/>
   <remote fetch="git://github.com/mozilla/" name="mozilla"/>
-  <remote fetch="https://git.mozilla.org/releases" name="mozillaorg"/>
+  <remote fetch="https://hg.mozilla.org/releases" name="mozillaorg"/>
 
   <!--
     B2G repositories for all targets
