@@ -17,13 +17,13 @@
   </project>
   <project path="dalvik" name="fake-dalvik" remote="b2g" revision="ca1f327d5acc198bb4be62fa51db2c039032c9ce" upstream="v1-train"/>
   <project path="gaia" name="gaia.git" remote="neuralassembly" revision="master-20130625"/>
-  <project path="gecko" name="gecko.git" remote="mozillaorg" revision="mozilla-b2g18/"/>
   <project path="gonk-misc" name="gonk-misc" remote="sola" revision="19d02331988a3d10e06bac5f12a68ccaf72ea034" upstream="v1-train"/>
   <project path="rilproxy" name="rilproxy" remote="b2g" revision="f634b3d50effdd42828cc757c01fdbf74e562a36" upstream="v1-train"/>
   <project path="external/moztt" name="moztt" remote="sola" revision="v1-train"/>
   <project path="multilocale" name="multilocale" remote="sola" revision="master"/>
 
-  <!-- Stock Android things -->
+  <!-- Stock Android things   <project path="gecko" name="gecko.git" remote="mozillaorg" revision="mozilla-b2g18/"/>
+-->
   <project path="abi/cpp" name="platform/abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project path="bionic" name="android_bionic" remote="cm" revision="ics"/>
   <project path="bootable/recovery" name="platform/bootable/recovery" revision="fadc5ac81d6400ebdd041f7d4ea64021596d6b7d"/>
