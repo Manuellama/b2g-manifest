@@ -104,8 +104,7 @@
 
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="ics"/>
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="07ef2f509a362cc6a5825d0d19143dc4bd2474e0"/>
-  <project path="external/skia" name="skia-b2g-sgs2" remote="b2g" revision="e2d7caf0363dec74d77f7e7adbe5b4cce0c6524c" upstream="v1-train"/>
-
+ 
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="ics"/>
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cm" revision="ics"/>
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cm" revision="ics"/>
